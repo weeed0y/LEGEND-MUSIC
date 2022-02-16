@@ -3,17 +3,17 @@
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-- [![Deploy](https://te.legra.ph/file/5532de782efaf0acfe7c3.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/561a521c41ca7e4a9dfe3.jpg)](https://heroku.com/deploy/)
 
 
 -------------
 
-## [REPL](https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py)
+## [REPL](https://replit.com/@Dark_Legend_Pro/PRO-LEGENDBOT#main.py)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-AI/LEGEND-MUSIC
-$ cd LEGEND-MUSIC
+$ git clone https://github.com/weeedb0y/LEGEND-MUSIC
+$ cd Dark_Legend_Pro-MUSIC
 $ cp sample.env .env
 < edit .env with your own values >
 $ sudo docker build . -t musicplayer
